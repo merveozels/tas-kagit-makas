@@ -1,0 +1,7 @@
+kullanıcıdan önce taş mı kağıt mı makas mı seçmesi istenir
+eğer taş seçerse
+-bilgisayar kağıtsa yenilir
+-bilgisayar taşsa berabere kalır
+-bilgisayar makassa kazanır
+
+bunu 9 kere tekrarla 
